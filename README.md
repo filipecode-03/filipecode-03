@@ -7,6 +7,8 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipecode-03&layout=compact&hide_border=true&title_color=fff&text_color=c9d1d9&bg_color=262626" />
 </div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=filipecode-03&bg_color=262626&color=c9d1d9&line=c9d1d9&point=fffc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <div>
     <img src="https://cdn-icons-png.freepik.com/256/1051/1051277.png?ga=GA1.1.1881583471.1689725477&semt=ais_hybrid" height="50px">
     <img src="https://cdn-icons-png.freepik.com/256/11516/11516361.png?ga=GA1.1.1881583471.1689725477&semt=ais_hybrid" height="50px">
