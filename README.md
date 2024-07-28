@@ -1,8 +1,10 @@
 # Olá, Eu sou o Filipe 🧑‍💻
  
-![Filipe GitHub stats](https://github-readme-stats.vercel.app/api?username=filipecode-03&&show_icons=true&theme=radical)
+![Filipe GitHub stats](https://github-readme-stats.vercel.app/api?username=filipecode-03&&show_icons=true&theme=dark)
 
 <div>
+    <img src="https://cdn-icons-png.freepik.com/256/1051/1051277.png?ga=GA1.1.1881583471.1689725477&semt=ais_hybrid" height="50px">
+    <img src="https://cdn-icons-png.freepik.com/256/11516/11516361.png?ga=GA1.1.1881583471.1689725477&semt=ais_hybrid" height="50px">
     <img src="https://cdn.icon-icons.com/icons2/2108/PNG/96/javascript_icon_130900.png" height="50px"> 
 </div>
 
