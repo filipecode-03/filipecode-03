@@ -7,10 +7,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipecode-03&layout=compact&hide_border=true&title_color=fff&text_color=00bfbf&bg_color=262626" />
 </div>
 
- 
-![Filipe GitHub stats](https://github-readme-stats.vercel.app/api?username=filipecode-03&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=apprentice)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipecode-03&theme=apprentice&size_weight=0.5&count_weight=0.5)
-
 <div>
     <img src="https://cdn-icons-png.freepik.com/256/1051/1051277.png?ga=GA1.1.1881583471.1689725477&semt=ais_hybrid" height="50px">
     <img src="https://cdn-icons-png.freepik.com/256/11516/11516361.png?ga=GA1.1.1881583471.1689725477&semt=ais_hybrid" height="50px">
