@@ -10,21 +10,13 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=filipecode-03&bg_color=262626&color=c9d1d9&line=c9d1d9&point=fffc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=filipecode-03&theme=dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=filipecode-03&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center">  
-<a href="https://www.instagram.com/mthalvarez_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.instagram.com/filipecode?igsh=MWc0dmYxeGlnbnB0bA==/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<a href="https://www.tiktok.com/@filipecode?_t=8oNfrvqteY2&_r=1"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
+<a href="https://www.linkedin.com/in/filipe-magalh%C3%A3es-906175287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </div>
 
-<div>
-    <img src="https://cdn-icons-png.freepik.com/256/1051/1051277.png?ga=GA1.1.1881583471.1689725477&semt=ais_hybrid" height="50px">
-    <img src="https://cdn-icons-png.freepik.com/256/11516/11516361.png?ga=GA1.1.1881583471.1689725477&semt=ais_hybrid" height="50px">
-    <img src="https://cdn.icon-icons.com/icons2/2108/PNG/96/javascript_icon_130900.png" height="50px"> 
-</div>
-
-<br/>
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/filipecode?igsh=MWc0dmYxeGlnbnB0bA==)
-[![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@filipecode?_t=8oNfrvqteY2&_r=1)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-magalh%C3%A3es-906175287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+### Main skills:
