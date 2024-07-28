@@ -1,7 +1,9 @@
-# Olá, Eu sou o Filipe 🧑‍💻
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6c757d&height=180&section=header&text=Filipe Magalhães&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0466c8&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Matheus+Maia+Alvarez;I'm+19+years+old;I+am+from+Carapicuíba,+SP;I+study+analysis+and+systems+development+at+Senac;Be+Welcome!+:%29)](https://git.io/typing-svg)
  
 ![Filipe GitHub stats](https://github-readme-stats.vercel.app/api?username=filipecode-03&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=apprentice)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipecode-03&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipecode-03&theme=apprentice&size_weight=0.5&count_weight=0.5)
 
 <div>
     <img src="https://cdn-icons-png.freepik.com/256/1051/1051277.png?ga=GA1.1.1881583471.1689725477&semt=ais_hybrid" height="50px">
