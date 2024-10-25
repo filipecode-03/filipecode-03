@@ -21,16 +21,16 @@
 
 ### Main skills:
 
-![HTML](https://img.shields.io/badge/-html-f77f00?style=for-the-badge&logo=html5&labelColor=000814&textColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3&logoColor=blue&labelColor=000814)&nbsp;
-![Python](https://img.shields.io/badge/-python-fdc500?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=000814)&nbsp;
+![HTML](https://img.shields.io/badge/-html-000814?style=for-the-badge&logo=html5&labelColor=000814)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-000814?style=for-the-badge&logo=css3&logoColor=blue&labelColor=000814)&nbsp;
+![Python](https://img.shields.io/badge/-python-000814?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=000814)&nbsp;
 
 ### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0077b6?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-000814?style=for-the-badge&logo=git&labelColor=000814)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-7b2cbf?style=for-the-badge&logo=github&labelColor=7b2cbf)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0077b6?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![microsoft-office](https://img.shields.io/badge/-microsoft_office-ff8500?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
 ### Studying in this moment:
 ![Figma](https://img.shields.io/badge/-figma-000814?style=for-the-badge&logo=figma&labelColor=000814)&nbsp;
