@@ -23,6 +23,7 @@
 ![HTML](https://img.shields.io/badge/-html-000814?style=for-the-badge&logo=html5&labelColor=000814)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-000814?style=for-the-badge&logo=css3&logoColor=blue&labelColor=000814)&nbsp;
 ![Python](https://img.shields.io/badge/-python-000814?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=000814)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-5c0099?style=for-the-badge&logo=php&logoColor=white&labelColor=5c0099)&nbsp;
 
 ### Frameworks
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
@@ -33,16 +34,18 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-7b2cbf?style=for-the-badge&logo=github&labelColor=7b2cbf)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0077b6?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-ff8500?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
+
+### 🌐 Web Browsers
 ![microsoft edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)&nbsp;
 ![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 
 ### 📚 Studying in this moment:
 ![Figma](https://img.shields.io/badge/-figma-000814?style=for-the-badge&logo=figma&labelColor=000814)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-5c0099?style=for-the-badge&logo=php&logoColor=white&labelColor=5c0099)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000814?style=for-the-badge&logo=javascript&labelColor=000814&textColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-fdc500?style=for-the-badge&logo=mysql&logoColor=0D1117&labelColor=fdc500&textColor=0D1117)&nbsp;
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 
 ### 📘 Education
 ![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)&nbsp;
