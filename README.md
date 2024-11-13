@@ -20,8 +20,6 @@
 </div>
 
 ### 🚀 Main skills:
-![HTML](https://img.shields.io/badge/-html-000814?style=for-the-badge&logo=html5&labelColor=000814)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-000814?style=for-the-badge&logo=css3&logoColor=blue&labelColor=000814)&nbsp;
 ![Python](https://img.shields.io/badge/-python-000814?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=000814)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-5c0099?style=for-the-badge&logo=php&logoColor=white&labelColor=5c0099)&nbsp;
 
