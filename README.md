@@ -25,7 +25,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-000814?style=for-the-badge&logo=css3&logoColor=blue&labelColor=000814)&nbsp;
 ![Python](https://img.shields.io/badge/-python-000814?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=000814)&nbsp;
 
-### Frameworks
+### 🚀 Frameworks
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 
 ### Tools:
@@ -34,6 +34,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-7b2cbf?style=for-the-badge&logo=github&labelColor=7b2cbf)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0077b6?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-ff8500?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+![microsoft edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)&nbsp;
+![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)&nbsp;
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 
 ### Studying in this moment:
 ![Figma](https://img.shields.io/badge/-figma-000814?style=for-the-badge&logo=figma&labelColor=000814)&nbsp;
