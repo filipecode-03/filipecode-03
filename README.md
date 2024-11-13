@@ -13,23 +13,21 @@
   <img src="https://github-profile-trophy.vercel.app/?username=filipecode-03&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<div align="center">
-<h1>👦 Social</h1>  
+<div align="center">  
 <a href="https://www.instagram.com/filipecode?igsh=MWc0dmYxeGlnbnB0bA==/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 <a href="https://www.tiktok.com/@filipecode?_t=8oNfrvqteY2&_r=1"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
 <a href="https://www.linkedin.com/in/filipe-magalh%C3%A3es-906175287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </div>
 
-### Main skills:
-
+### 🚀 Main skills:
 ![HTML](https://img.shields.io/badge/-html-000814?style=for-the-badge&logo=html5&labelColor=000814)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-000814?style=for-the-badge&logo=css3&logoColor=blue&labelColor=000814)&nbsp;
 ![Python](https://img.shields.io/badge/-python-000814?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=000814)&nbsp;
 
-### 🚀 Frameworks
+### Frameworks
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 
-### Tools:
+### 🛠️ Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0077b6?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-000814?style=for-the-badge&logo=git&labelColor=000814)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-7b2cbf?style=for-the-badge&logo=github&labelColor=7b2cbf)&nbsp;
@@ -39,7 +37,7 @@
 ![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 
-### Studying in this moment:
+### 📚 Studying in this moment:
 ![Figma](https://img.shields.io/badge/-figma-000814?style=for-the-badge&logo=figma&labelColor=000814)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-5c0099?style=for-the-badge&logo=php&logoColor=white&labelColor=5c0099)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000814?style=for-the-badge&logo=javascript&labelColor=000814&textColor=0D1117)&nbsp;
