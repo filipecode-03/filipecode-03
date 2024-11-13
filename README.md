@@ -44,7 +44,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-fdc500?style=for-the-badge&logo=mysql&logoColor=0D1117&labelColor=fdc500&textColor=0D1117)&nbsp;
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 
-### Education
+### 📘 Education
 ![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)&nbsp;
 ![Curso em Video](https://img.shields.io/badge/Cursoemvideo-blue?style=for-the-badge&logo=youtube&logoColor=white)&nbsp;
 ![Duolingo](https://img.shields.io/badge/Estácio-blue?style=for-the-badge)&nbsp;
