@@ -13,15 +13,20 @@
   <img src="https://github-profile-trophy.vercel.app/?username=filipecode-03&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
+<h1 align="center">Social Media</h1>
 <div align="center">  
 <a href="https://www.instagram.com/filipecode?igsh=MWc0dmYxeGlnbnB0bA==/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 <a href="https://www.tiktok.com/@filipecode?_t=8oNfrvqteY2&_r=1"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
 <a href="https://www.linkedin.com/in/filipe-magalh%C3%A3es-906175287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href=""><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </div>
+<hr>
 
 ### 🚀 Main skills:
+![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/-python-000814?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=000814)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-5c0099?style=for-the-badge&logo=php&logoColor=white&labelColor=5c0099)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-fdc500?style=for-the-badge&logo=mysql&logoColor=0D1117&labelColor=fdc500&textColor=0D1117)&nbsp;
 
 ### Frameworks:
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
@@ -41,7 +46,6 @@
 ### 📚 Studying in this moment:
 ![Figma](https://img.shields.io/badge/-figma-000814?style=for-the-badge&logo=figma&labelColor=000814)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000814?style=for-the-badge&logo=javascript&labelColor=000814&textColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-fdc500?style=for-the-badge&logo=mysql&logoColor=0D1117&labelColor=fdc500&textColor=0D1117)&nbsp;
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 
