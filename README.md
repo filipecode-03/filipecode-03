@@ -14,10 +14,10 @@
 </p>
 <br>
 <div align="center">  
-<a href="https://www.instagram.com/filipecode?igsh=MWc0dmYxeGlnbnB0bA==/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<a href="https://www.instagram.com/filipecode?igsh=MWc0dmYxeGlnbnB0bA==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 <a href="https://www.tiktok.com/@filipecode?_t=8oNfrvqteY2&_r=1"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
-<a href="https://www.linkedin.com/in/filipe-magalh%C3%A3es-906175287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-<a href=""><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+<a href="https://www.linkedin.com/in/filipemagalh%C3%A3es03?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://youtube.com/@filipecode?si=IYSIG5-PQEAcYhvP"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </div>
 <hr>
 
