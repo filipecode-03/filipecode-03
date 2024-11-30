@@ -47,6 +47,11 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000814?style=for-the-badge&logo=javascript&labelColor=000814&textColor=0D1117)&nbsp;
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+![KALI LINUX](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)&nbsp;
+![RED HAT](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)&nbsp;
+![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
+![MINT](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)&nbsp;
+![FEDORA](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)&nbsp;
 
 ### 📘 Education:
 ![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)&nbsp;
