@@ -22,8 +22,10 @@
 <hr>
 
 ### 🚀 Main skills:
+![GIMP](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)&nbsp;
+![INKSCAPE](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)&nbsp;
 ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/-python-000814?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=000814)&nbsp;
+![PYTHON](https://img.shields.io/badge/-python-000814?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=000814)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-5c0099?style=for-the-badge&logo=php&logoColor=white&labelColor=5c0099)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-fdc500?style=for-the-badge&logo=mysql&logoColor=0D1117&labelColor=fdc500&textColor=0D1117)&nbsp;
 
@@ -43,8 +45,8 @@
 ![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)&nbsp;
 
 ### 📚 Studying in this moment:
-![Figma](https://img.shields.io/badge/-figma-000814?style=for-the-badge&logo=figma&labelColor=000814)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-000814?style=for-the-badge&logo=javascript&labelColor=000814&textColor=0D1117)&nbsp;
+![FIGMA](https://img.shields.io/badge/-figma-000814?style=for-the-badge&logo=figma&labelColor=000814)&nbsp;
+![JAVA SCRIPT](https://img.shields.io/badge/-JavaScript-000814?style=for-the-badge&logo=javascript&labelColor=000814&textColor=0D1117)&nbsp;
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![KALI LINUX](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)&nbsp;
@@ -52,6 +54,15 @@
 ![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 ![MINT](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)&nbsp;
 ![FEDORA](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
+![NODE.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![TYPE SCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![KOTLIN](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
+![]()&nbsp;
+![]()&nbsp;
+![]()&nbsp;
+![]()&nbsp;
 
 ### 📘 Education:
 ![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)&nbsp;
