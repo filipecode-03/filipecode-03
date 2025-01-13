@@ -17,7 +17,6 @@
 ### 🚀 Main skills:
 ![GIMP](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)&nbsp;
 ![INKSCAPE](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)&nbsp;
-![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)&nbsp;
 ![PYTHON](https://img.shields.io/badge/-python-000814?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=000814)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-5c0099?style=for-the-badge&logo=php&logoColor=white&labelColor=5c0099)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-fdc500?style=for-the-badge&logo=mysql&logoColor=0D1117&labelColor=fdc500&textColor=0D1117)&nbsp;
