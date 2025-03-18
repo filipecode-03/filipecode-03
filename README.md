@@ -1,4 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DCDCDC&height=120&section=header"/>
+<!-- Animação de ondas Gray
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DCDCDC&height=120&section=header"/> 
+
+-->
 
 <!-- Essa era a animação de letras aparecendo
 
@@ -7,6 +11,7 @@
  -->
 
  <div align="center">
+    <img height=400px width="1000px" src="images/Apresentação1.gif">
     <img height=400px width="1000px" src="images/9070324cdfc07c68d60eed0c39e77573.gif">
     <img src="images/ca.png">
  </div>
