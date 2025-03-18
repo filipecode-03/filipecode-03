@@ -14,6 +14,19 @@
     <img src="images/Gifs animados.gif">
  </div>
 
+<img align="right" alt="coding-gif" width="400" src="images/transparent_gitgif.gif">
+
+<div align="left">
+   <h3>💫 About Me</h3>
+  <h4>
+    🌱 I am currently working on and developing my programming skills.</br>
+   🔭 I worked on .Net Framework and Hands on experience in Full Stack.</br>
+   💬 Ask me about Microsoft .Net framework, Full Stack Development, Python.</br>
+   ⚡ Interest in Artifical Intelligence, Machine Learning, Deep Learning, Data Science, Automation, BlockChain development.</br>
+   ✨ I only like perfection.</h4>
+</div>
+
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=filipecode-03&show_icons=true&&count_private=true&hide_border=true&title_color=fff&icon_color=FFFFAF&text_color=c9d1d9&bg_color=262626" alt="Filipe Magalhães github stats"/> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipecode-03&layout=compact&hide_border=true&title_color=fff&text_color=c9d1d9&bg_color=262626&langs_count=6"/>
