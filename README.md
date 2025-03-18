@@ -16,6 +16,25 @@
 
 <br/>
 
+### Trabalhe com otimismo e espere o melhor!
+
+
+👋 Saudações! É ótimo ter você aqui. Eu sou Filipe Magalhães, um estudante de engenharia de Software entusiasmado vindo do Brasil <img height=15 alt="Bandeira do Brasil" src="https://user-images.githubusercontent.com/39463872/117911655-8b8c0980-b2b4-11eb-9291-403c6f7f8a4d.png"/>.
+
+🚀 Como fundador do HelpOps-Hub , criei a plataforma para ajudar os alunos de DevOps a evitar erros que consomem tempo compartilhando soluções. Convido todos a participar, compartilhar experiências e aprender solução de problemas eficaz.
+
+🎓 Estou cursando Bacharelado em Tecnologia com graduação em Ciência da Computação e também mantendo o Emanate: Innovate, Connect, Fund .
+
+🔥 Com mais de 10 mil seguidores no Linkedin , publico muito conteúdo sobre tecnologia DevOps, vários projetos relacionados à tecnologia e ideias para integrar diferentes tecnologias.
+
+🔖 Estou ocupado escrevendo artigos sobre casos de uso em vários setores e tecnologias no Medium .
+
+🔥 Documento meus aprendizados de DevOps passo a passo no Hashnode com capturas de tela para referência futura e fácil compreensão, criando um recurso que também ajuda outras pessoas na área.
+
+💡 Motivado por desafios do mundo real, estou sempre explorando como a tecnologia pode resolver problemas práticos, gerando soluções que preenchem a lacuna entre ideias e resultados impactantes.
+
+🧭 A empatia é minha bússola, guiando a colaboração, promovendo a compreensão e criando uma tapeçaria harmoniosa em cada interação.
+
 <h3 align="center">Pretendo construir uma carreira com pessoas comprometidas e dedicadas, que me ajudarão a me explorar e entender meu potencial. Disposto a trabalhar como um jogador-chave em um ambiente desafiador e criativo com todas as minhas habilidades profissionais e técnicas.</h3>
 
 <img align="right" alt="coding-gif" width="400" src="images/transparent_gitgif.gif">
