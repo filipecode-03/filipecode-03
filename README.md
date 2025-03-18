@@ -6,6 +6,10 @@
  
  -->
 
+ <div>
+    <img src="images/9070324cdfc07c68d60eed0c39e77573.gif">
+ </div>
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=filipecode-03&show_icons=true&&count_private=true&hide_border=true&title_color=fff&icon_color=FFFFAF&text_color=c9d1d9&bg_color=262626" alt="Filipe Magalhães github stats"/> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipecode-03&layout=compact&hide_border=true&title_color=fff&text_color=c9d1d9&bg_color=262626&langs_count=6"/>
