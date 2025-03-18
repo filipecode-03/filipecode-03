@@ -14,6 +14,10 @@
     <img src="images/Gifs animados.gif">
  </div>
 
+<br/>
+
+<h3 align="center">Pretendo construir uma carreira com pessoas comprometidas e dedicadas, que me ajudarão a me explorar e entender meu potencial. Disposto a trabalhar como um jogador-chave em um ambiente desafiador e criativo com todas as minhas habilidades profissionais e técnicas.</h3>
+
 <img align="right" alt="coding-gif" width="400" src="images/transparent_gitgif.gif">
 
 <div align="left">
