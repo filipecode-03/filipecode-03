@@ -33,7 +33,7 @@
 
 <h3 align="center">Pretendo construir uma carreira com pessoas comprometidas e dedicadas, que me ajudarão a me explorar e entender meu potencial. Disposto a trabalhar como um jogador-chave em um ambiente desafiador e criativo com todas as minhas habilidades profissionais e técnicas.</h3>
 
-<img align="center" alt="coding-gif" width="500px" src="images/transparent_gitgif.gif">
+<div align="center"><img alt="coding-gif" width="500px" src="images/transparent_gitgif.gif"></div>
 
 <br>
 
