@@ -33,7 +33,7 @@
 
 🤩 Pretendo construir uma carreira com pessoas comprometidas e dedicadas, que me ajudarão a me explorar e entender meu potencial. Disposto a trabalhar como um jogador-chave em um ambiente desafiador e criativo com todas as minhas habilidades profissionais e técnicas.
 
-<div align="center"><img alt="coding-gif" width="780px" src="images/transparent_gitgif.gif"></div>
+<div align="center"><img alt="coding-gif" width="750px" src="images/transparent_gitgif.gif"></div>
 
 <br>
 
