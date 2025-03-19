@@ -14,8 +14,6 @@
     <img src="images/Gifs animados.gif">
  </div>
 
-<br/>
-
 <div align="center">
 
 # <img src="images/fogoAzul.gif" width="60px" /> &nbsp; Welcome to my Readme &nbsp; <img src="images/fogoAzul.gif" width="60px" />
