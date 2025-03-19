@@ -17,9 +17,10 @@
 <br/>
 
 <div align="center">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fflame-blue-stickers&psig=AOvVaw0N8lrT-rCjJeZQEvQt6uDh&ust=1742469243613000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCND64vaBlowDFQAAAAAdAAAAABAJ">
 
-</div>
+# <img src="images/fogoAzul.gif" width="60px" /> &nbsp; Welcome to my Readme &nbsp; <img src="images/fogoAzul.gif" width="60px" />
+
+
 
 ### Trabalhe com otimismo e espere o melhor!
 
