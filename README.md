@@ -53,6 +53,8 @@
    ✨ I only like perfection.</h4>
 </div>
 
+<br>
+
 # Certificações <img src="images/cup-17086305-unscreen.gif" width="40">
 
 📄 Below is a showcase of my knowledge and skills across a wide range of DevOps, cloud, and related technologies, primarily completed through [LinuxWorld Informatics Pvt. Ltd](https://www.linkedin.com/company/linuxworld-informatics-pvt-ltd).
