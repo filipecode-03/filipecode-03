@@ -81,7 +81,11 @@
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DCDCDC&height=120&section=footer"/>
+<!-- animação de onda gray
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DCDCDC&height=120&section=footer"/> 
+
+-->
 
 
 
