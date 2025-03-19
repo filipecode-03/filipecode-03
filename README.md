@@ -31,7 +31,7 @@
 
 💡 Motivado por desafios do mundo real, estou sempre explorando como a tecnologia pode resolver problemas práticos, gerando soluções que preenchem a lacuna entre ideias e resultados impactantes.
 
-<h3 align="center">Pretendo construir uma carreira com pessoas comprometidas e dedicadas, que me ajudarão a me explorar e entender meu potencial. Disposto a trabalhar como um jogador-chave em um ambiente desafiador e criativo com todas as minhas habilidades profissionais e técnicas.</h3>
+🤩 Pretendo construir uma carreira com pessoas comprometidas e dedicadas, que me ajudarão a me explorar e entender meu potencial. Disposto a trabalhar como um jogador-chave em um ambiente desafiador e criativo com todas as minhas habilidades profissionais e técnicas.
 
 <div align="center"><img alt="coding-gif" width="780px" src="images/transparent_gitgif.gif"></div>
 
