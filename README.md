@@ -20,7 +20,7 @@
 
 # <img src="images/fogoAzul.gif" width="60px" /> &nbsp; Welcome to my Readme &nbsp; <img src="images/fogoAzul.gif" width="60px" />
 
-
+</div>
 
 ### Trabalhe com otimismo e espere o melhor!
 
@@ -56,18 +56,6 @@
 </div>
 
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=filipecode-03&show_icons=true&&count_private=true&hide_border=true&title_color=fff&icon_color=FFFFAF&text_color=c9d1d9&bg_color=262626" alt="Filipe Magalhães github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipecode-03&layout=compact&hide_border=true&title_color=fff&text_color=c9d1d9&bg_color=262626&langs_count=6"/>
-</div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=filipecode-03&bg_color=262626&color=c9d1d9&line=c9d1d9&point=fffc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=filipecode-03&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-
 ### 🚀 Main skills:
 ![GIMP](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)&nbsp;
 ![INKSCAPE](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)&nbsp;
@@ -92,32 +80,16 @@
 ![Duolingo](https://img.shields.io/badge/Estácio-blue?style=for-the-badge)&nbsp;
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{filipecode-03}/count.svg" /></p> 
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DCDCDC&height=120&section=footer"/>
 
-<!-- 
 
-<img src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDIyOTk5ODQsIm5iZiI6MTc0MjI5OTY4NCwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzE4VDEyMDgwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVhMjkyYjJmM2U2NTI0YzQ5MTFiNWM2YWNkNzY2Y2EzZTM4NmEwZTc3YTRmZDE3ODhiMDgyZmUxMzA3MzJmMTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.eehHfz3K3AtnE9MQ_kgxk_uI6d4Z2M2wofCHRAaQ3ys"> 
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
 
-<img src="">
--->
-<h3 align="center">📚 Languages & tools I Have placed My Hands On </h3>
 
-<br/>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nodejs,mongodb,gitlab,raspberrypi,arduino,nextjs,tailwind" /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,pycharm" /><br>
-    <img src="https://skillicons.dev/icons?i=c,bash,kali,arch,ubuntu,python,javascript,mysql,dotnet" /><br>
-    <img src="https://skillicons.dev/icons?i=cpp,cs,vim,java,htmx,debian,neovim,atom,pwsh" /><br>
-</div>
-
-<br>
 
 # Tech Stack <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
 
@@ -133,3 +105,18 @@
 <samp>Servers</samp> | ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=0A0209) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=0A0209) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=0A0209) ![Tomcat](https://img.shields.io/badge/tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=d5d5d5) |
 <samp>Monitoring & Observability</samp> | ![Prometheus](https://img.shields.io/badge/prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=0A0209) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=0A0209) ![Nagios](https://img.shields.io/badge/nagios-%23005094.svg?style=for-the-badge&logo=nagios&logoColor=0A0209) ![Kiali](https://img.shields.io/badge/kiali-%234A90E2.svg?style=for-the-badge&logo=kiali&logoColor=0A0209) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=0A0209)|
 <samp>Databases</samp> | ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=0A0209) ![MySQL](https://img.shields.io/badge/mysql-%234A90E2.svg?style=for-the-badge&logo=mysql&logoColor=0A0209) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=0A0209) ![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=0A0209)|
+
+<br>
+
+# 📊 My GitHub Insights & Stats
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=filipecode-03&show_icons=true&&count_private=true&hide_border=true&title_color=fff&icon_color=FFFFAF&text_color=c9d1d9&bg_color=262626" alt="Filipe Magalhães github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipecode-03&layout=compact&hide_border=true&title_color=fff&text_color=c9d1d9&bg_color=262626&langs_count=6"/>
+</div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=filipecode-03&bg_color=262626&color=c9d1d9&line=c9d1d9&point=fffc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=filipecode-03&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
