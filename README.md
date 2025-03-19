@@ -94,13 +94,13 @@
 
 <samp>Tools & Technologies</samp> | <samp>Badge</samp> |
 --- | --- |
-<samp>Web development</samp> | [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)|
+<samp>Web development</samp> | [![My Skills](https://skillicons.dev/icons?i=js,html,css,wordpress,css,css,css,css,css,css,css,css)](https://skillicons.dev)|
 <samp>Operating System</samp> | [![My Skills](https://skillicons.dev/icons?i=windows,linux,kali)](https://skillicons.dev)|
 <samp>Programming Languages</samp> | [![My Skills](https://skillicons.dev/icons?i=python,php,js,ts)](https://skillicons.dev)|
-<samp>IDE & tools</samp> | [![My Skills](https://skillicons.dev/icons?i=vscode,notion)](https://skillicons.dev)|
+<samp>IDE & tools</samp> | [![My Skills](https://skillicons.dev/icons?i=vscode,notion,figma)](https://skillicons.dev)|
 <samp>Version Control</samp> | [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)|
 <samp>Servers</samp> | ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=0A0209)|
-<samp>Databases</samp> | [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)|
+<samp>Databases</samp> | [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)|
 
 <br>
 
