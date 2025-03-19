@@ -20,24 +20,24 @@
 
 </div>
 
-### Trabalhe com otimismo e espere o melhor!
+### Work with optimism and hope for the best!
 
 
-👋 Saudações! É ótimo ter você aqui. Eu sou Filipe Magalhães, um estudante de engenharia de Software entusiasmado vindo do Brasil <img height=15 alt="Bandeira do Brasil" src="https://user-images.githubusercontent.com/39463872/117911655-8b8c0980-b2b4-11eb-9291-403c6f7f8a4d.png"/>.
+👋 Greetings! It's great to have you here. I'm Filipe Magalhães, an enthusiastic Software Engineering student from Brazil. <img height=15 alt="Bandeira do Brasil" src="https://user-images.githubusercontent.com/39463872/117911655-8b8c0980-b2b4-11eb-9291-403c6f7f8a4d.png"/>.
 
-🎓 Estou cursando a minha graduação em Engenharia de Software pela Universidade Estácio.
+🎓 I am studying for my degree in Software Engineering at Estácio University.
 
-🔥 Documento meus aprendizados de tecnologia no GitHub e Notion com capturas de tela para fácil compreensão, criando um recurso que também ajuda outras pessoas na área.
+🔥 I document my technology learnings on GitHub and Notion with screenshots for easy comprehension, creating a resource that also helps others in the field.
 
-💡 Motivado por desafios do mundo real, estou sempre explorando como a tecnologia pode resolver problemas práticos, gerando soluções que preenchem a lacuna entre ideias e resultados impactantes.
+💡 Motivated by real-world challenges, I am always exploring how technology can solve practical problems, generating solutions that bridge the gap between ideas and impactful results.
 
-🤩 Pretendo construir uma carreira com pessoas comprometidas e dedicadas, que me ajudarão a me explorar e entender meu potencial. Disposto a trabalhar como um jogador-chave em um ambiente desafiador e criativo com todas as minhas habilidades profissionais e técnicas.
+🤩 I intend to build a career with committed and dedicated people who will help me explore myself and understand my potential. Willing to work as a key player in a challenging and creative environment with all my professional and technical skills.
 
 <div align="center"><img alt="coding-gif" width="750px" src="images/transparent_gitgif.gif"></div>
 
 <br>
 
-# Certificações <img src="images/cup-17086305-unscreen.gif" width="40">
+# Certifications <img src="images/cup-17086305-unscreen.gif" width="40">
 
 📄 Below is a demonstration of my knowledge and skills across a wide range of web technology related content.
 
