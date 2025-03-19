@@ -94,7 +94,7 @@
 
 <samp>Tools & Technologies</samp> | <samp>Badge</samp> |
 --- | --- |
-<samp>Web development</samp> | [![My Skills](https://skillicons.dev/icons?i=js,html,css,wordpress,css,css,css,css,css,css,css,css)](https://skillicons.dev)|
+<samp>Web development</samp> | [![My Skills](https://skillicons.dev/icons?i=js,html,css,wordpress,css,css,css,css,css,css,css,css,css,css,html,html,js,js,js)](https://skillicons.dev)|
 <samp>Operating System</samp> | [![My Skills](https://skillicons.dev/icons?i=windows,linux,kali)](https://skillicons.dev)|
 <samp>Programming Languages</samp> | [![My Skills](https://skillicons.dev/icons?i=python,php,js,ts)](https://skillicons.dev)|
 <samp>IDE & tools</samp> | [![My Skills](https://skillicons.dev/icons?i=vscode,notion,figma)](https://skillicons.dev)|
