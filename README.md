@@ -64,13 +64,6 @@
 ### Frameworks:
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 
-### 🛠️ Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0077b6?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-000814?style=for-the-badge&logo=git&labelColor=000814)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-7b2cbf?style=for-the-badge&logo=github&labelColor=7b2cbf)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0077b6?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-ff8500?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 
 ### 📘 Education:
 ![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)&nbsp;
@@ -94,13 +87,13 @@
 
 <samp>Tools & Technologies</samp> | <samp>Badge</samp> |
 --- | --- |
-<samp>Web development</samp> | [![My Skills](https://skillicons.dev/icons?i=js,html,css,wordpress,css,css,css,css,css,css,css,css,css,css,html,html,js,js,js)](https://skillicons.dev)|
-<samp>Operating System</samp> | [![My Skills](https://skillicons.dev/icons?i=windows,linux,kali)](https://skillicons.dev)|
-<samp>Programming Languages</samp> | [![My Skills](https://skillicons.dev/icons?i=python,php,js,ts)](https://skillicons.dev)|
-<samp>IDE & tools</samp> | [![My Skills](https://skillicons.dev/icons?i=vscode,notion,figma)](https://skillicons.dev)|
-<samp>Version Control</samp> | [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)|
+<samp>Web development</samp> |  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-5c0099?style=for-the-badge&logo=php&logoColor=white&labelColor=5c0099)|
+<samp>Operating System</samp> | ![Windows](https://img.shields.io/badge/-Windows-0077b6?style=for-the-badge&logo=windows&labelColor=0D1117) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=d5d5d5)|
+<samp>Programming Languages</samp> | ![PYTHON](https://img.shields.io/badge/-python-000814?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=000814) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-5c0099?style=for-the-badge&logo=php&logoColor=white&labelColor=5c0099) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)|
+<samp>IDE & tools</samp> | ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0077b6?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue&labelColor=0D1117) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) ![GIMP](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white) ![INKSCAPE](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white) ![microsoft-office](https://img.shields.io/badge/-microsoft_office-ff8500?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)|
+<samp>Version Control</samp> | ![Git](https://img.shields.io/badge/-Git-000814?style=for-the-badge&logo=git&labelColor=000814) ![GitHub](https://img.shields.io/badge/-GitHub-7b2cbf?style=for-the-badge&logo=github&labelColor=7b2cbf) |
 <samp>Servers</samp> | ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=0A0209)|
-<samp>Databases</samp> | [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)|
+<samp>Databases</samp> | ![MySQL](https://img.shields.io/badge/MySQL-fdc500?style=for-the-badge&logo=mysql&logoColor=0D1117&labelColor=fdc500&textColor=0D1117)|
 
 <br>
 
