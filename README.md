@@ -53,36 +53,6 @@
    ✨ I only like perfection.</h4>
 </div>
 
-
-### 🚀 Main skills:
-![GIMP](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)&nbsp;
-![INKSCAPE](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)&nbsp;
-![PYTHON](https://img.shields.io/badge/-python-000814?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=000814)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-5c0099?style=for-the-badge&logo=php&logoColor=white&labelColor=5c0099)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-fdc500?style=for-the-badge&logo=mysql&logoColor=0D1117&labelColor=fdc500&textColor=0D1117)&nbsp;
-
-### Frameworks:
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-
-
-### 📘 Education:
-![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)&nbsp;
-![Curso em Video](https://img.shields.io/badge/Cursoemvideo-blue?style=for-the-badge&logo=youtube&logoColor=white)&nbsp;
-![Duolingo](https://img.shields.io/badge/Estácio-blue?style=for-the-badge)&nbsp;
-
-
-
-<!-- animação de onda gray
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DCDCDC&height=120&section=footer"/> 
-
--->
-
-
-
-
-
-
 # Tech Stack <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
 
 <samp>Tools & Technologies</samp> | <samp>Badge</samp> |
@@ -114,3 +84,9 @@
 <br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{filipecode-03}/count.svg" /></p> 
 <br></div>
+
+<!-- animação de onda gray
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DCDCDC&height=120&section=footer"/> 
+
+-->
