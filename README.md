@@ -20,6 +20,8 @@
 
 </div>
 
+<img src="images/transparent_gitgif.gif" align="right" width="500px">
+
 ### Work with optimism and hope for the best!
 
 
@@ -32,8 +34,6 @@
 💡 Motivated by real-world challenges, I am always exploring how technology can solve practical problems, generating solutions that bridge the gap between ideas and impactful results.
 
 🤩 I intend to build a career with committed and dedicated people who will help me explore myself and understand my potential. Willing to work as a key player in a challenging and creative environment with all my professional and technical skills.
-
-<div align="center"><img alt="coding-gif" width="750px" src="images/transparent_gitgif.gif"></div>
 
 <br>
 
