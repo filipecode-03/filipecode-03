@@ -20,7 +20,7 @@
 
 </div>
 
-<img src="images/transparent_gitgif.gif" align="right" width="500px">
+<img src="images/transparent_gitgif.gif" align="right" width="300px">
 
 ### Work with optimism and hope for the best!
 
