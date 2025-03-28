@@ -24,7 +24,6 @@
 
 ### Work with optimism and hope for the best!
 
-
 👋 Greetings! It's great to have you here. I'm Filipe Magalhães, an enthusiastic Software Engineering student from Brazil. <img height=15 alt="Bandeira do Brasil" src="https://user-images.githubusercontent.com/39463872/117911655-8b8c0980-b2b4-11eb-9291-403c6f7f8a4d.png"/>.
 
 🎓 I am studying for my degree in **Software Engineering** at Estácio University.
