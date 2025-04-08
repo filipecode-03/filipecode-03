@@ -36,6 +36,10 @@
 
 <br>
 
+# Projects 
+
+
+
 # Certifications <img src="images/cup-17086305-unscreen.gif" width="40">
 
 📄 Below is a demonstration of my knowledge and skills across a wide range of web technology related content.
@@ -64,7 +68,7 @@
 
 <br>
 
-# 📊 My GitHub Insights & Stats
+# My GitHub Insights & Stats <img src="images/business.gif" width="60">
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=filipecode-03&show_icons=true&&count_private=true&hide_border=true&title_color=fff&icon_color=FFFFAF&text_color=c9d1d9&bg_color=262626" alt="Filipe Magalhães github stats"/> 
