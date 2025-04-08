@@ -60,9 +60,9 @@
 
 🧠 Tópico          | 📷 Imagem/GIF                | 📝 Descrição
 ------------------|------------------------------|------------------------------
-Coding Time       | [GIF AQUI]                   | Desenvolvedores focados no código
-Bug Hunting       | [GIF AQUI]                   | Corrigindo erros difíceis
-Chill Mode        | [GIF AQUI]                   | Hora do café depois do deploy
+Coding Time       | [GIF AQUI] <br> skbvvssvssvsvsvs                   | Desenvolvedores focados no código
+Bug Hunting       | [GIF AQUI] | Corrigindo erros difíceis
+Chill Mode        | [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev) | Hora do café depois do deploy
 
 
 # Certifications <img src="images/cup-17086305-unscreen.gif" width="40">
