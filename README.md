@@ -48,7 +48,7 @@
   <tr>
     <td style="font-size: 16px; text-align: center;">Links</td>
     <td><a href="" style="">WEB-SITE-ANDROID</a><br>
-        <a>WEB-SITE-GOOGLEGLASS</a>
+        <a href="">WEB-SITE-GOOGLEGLASS</a>
     </td>
   </tr>
   <tr>
