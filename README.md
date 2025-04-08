@@ -36,8 +36,33 @@
 
 <br>
 
-# Projects 
+# Projects <img src="images/computer-unscreen.gif" width="48">
 
+<br>
+
+<table>
+  <tr>
+    <th style="font-size: 20px; text-align: center;">🧠 Topics</th>
+    <th style="font-size: 20px; text-align: center;">🌐 Web Pages</th>
+  </tr>
+  <tr>
+    <td style="font-size: 16px; text-align: center;">Links</td>
+    <td><a href="" style="">WEB-SITE-ANDROID</a></td>
+  </tr>
+  <tr>
+    <td style="font-size: 16px; text-align: center;">Technologies and tools</td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js"></td>
+  </tr>
+</table>
+
+<br>
+<br>
+
+🧠 Tópico          | 📷 Imagem/GIF                | 📝 Descrição
+------------------|------------------------------|------------------------------
+Coding Time       | [GIF AQUI]                   | Desenvolvedores focados no código
+Bug Hunting       | [GIF AQUI]                   | Corrigindo erros difíceis
+Chill Mode        | [GIF AQUI]                   | Hora do café depois do deploy
 
 
 # Certifications <img src="images/cup-17086305-unscreen.gif" width="40">
