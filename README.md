@@ -58,7 +58,7 @@
 <br>
 <br>
 
-🧠 Tópico          | 📷 Imagem/GIF                |
+🧠 Tópico        |      🌐 Web Pages            |
 ------------------|------------------------------|
 Links | WEB-SITE-ANDROIND <br> WEB-SITE-GOOGLEGLASS <br> WEB-SITE-FLEXVOX |
 Technologies and tools | [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev) |
