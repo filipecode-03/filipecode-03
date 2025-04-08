@@ -36,7 +36,7 @@
 
 <br>
 
-# Projects <img src="images/computer-unscreen.gif" width="48">
+<!-- # Projects <img src="images/computer-unscreen.gif" width="48"> -->
 
 # Certifications <img src="images/cup-17086305-unscreen.gif" width="40">
 
