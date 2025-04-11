@@ -47,7 +47,7 @@
 | S.No. | Certificate Name | Issuing Authority | Date | Credential |
 |:-----:|:-----------------|:------------------:|:----:|:----------:|
 | 1. | web development | Curso em Vídeo | February 2024 | [View](https://lydian-enthusiasm-040.notion.site/Curso-em-V-deo-571e930a044240b1bdc8556408be9671?pvs=4) |
-| 2. | web development | MIMO | March 2025 | [View](https://github.com/filipecode-03/MIMO) |
+| 2. | HTML | MIMO | March 2025 | [View](https://github.com/filipecode-03/MIMO) |
 | 3. | Responsive Web Design | freeCodeCamp | March 2025 | [View](https://github.com/filipecode-03/freeCodeCamp) |
 | 4. | HTML, CSS, JS | W3Schools | March 2025 | [View](https://github.com/filipecode-03/W3Schools) |
 <br>
