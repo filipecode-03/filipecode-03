@@ -48,8 +48,8 @@
 |:-----:|:-----------------|:------------------:|:----:|:----------:|
 | 1. | web development | Curso em Vídeo | February 2024 | [View](https://lydian-enthusiasm-040.notion.site/Curso-em-V-deo-571e930a044240b1bdc8556408be9671?pvs=4) |
 | 2. | web development | MIMO | March 2025 | [View](https://github.com/filipecode-03/MIMO) |
-| 3. | web development | freeCodeCamp | March 2025 | [View](https://github.com/filipecode-03/freeCodeCamp) |
-| 4. | web development | W3Schools | March 2025 | [View](https://github.com/filipecode-03/W3Schools) |
+| 3. | Responsive Web Design | freeCodeCamp | March 2025 | [View](https://github.com/filipecode-03/freeCodeCamp) |
+| 4. | HTML, CSS, JS | W3Schools | March 2025 | [View](https://github.com/filipecode-03/W3Schools) |
 <br>
 
 # Tech Stack <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
