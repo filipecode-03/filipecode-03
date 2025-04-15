@@ -76,7 +76,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=filipecode-03&bg_color=262626&color=c9d1d9&line=c9d1d9&point=fffc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=filipecode-03&theme=dracula&row=2&no-bg=true&column=10&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=filipecode-03&theme=dracula&row=2&no-bg=true&column=5&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center">
