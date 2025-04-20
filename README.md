@@ -80,7 +80,7 @@
 </p>
 
 <div align="center">
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/67a8b2ddf86334348205fdb7?variant=dark" alt="roadmap.sh"/></a>
+ <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/67a8b2ddf86334348205fdb7?variant=dark&roadmaps=frontend" alt="roadmap.sh"/></a>
 </div>
 
 <div align="center">
