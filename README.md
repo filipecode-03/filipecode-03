@@ -80,10 +80,6 @@
 </p>
 
 <div align="center">
- <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/67a8b2ddf86334348205fdb7?variant=dark&roadmaps=frontend" alt="roadmap.sh"/></a>
-</div>
-
-<div align="center">
 <br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{filipecode-03}/count.svg" /></p> 
 <br></div>
