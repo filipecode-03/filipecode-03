@@ -42,6 +42,13 @@
  <h3>FRONT-END</h3>
 </div>
 <div align="center">
+
+<table>
+  <tr>
+    <th>Project Name</th>
+  </tr>
+</table>
+
 | S.No. | FRONT-END | BACK-END | Date | Credential |
 |:-----:|:---------:|:--------:|:----:|:----------:|
 | 1. | web development | Curso em Vídeo | February 2024 | [View](https://lydian-enthusiasm-040.notion.site/Curso-em-V-deo-571e930a044240b1bdc8556408be9671?pvs=4) |
