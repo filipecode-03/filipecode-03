@@ -39,22 +39,20 @@
 # Projects <img src="images/computer-unscreen.gif" width="48">
 
 <div align="center">
- <h3>FRONT-END</h3>
+
+  ### FRONT-END</h3>
+
 </div>
+
 <div align="center">
 
-<table>
-  <tr>
-    <th>Project Name</th>
-  </tr>
-</table>
-
-| S.No. | FRONT-END | BACK-END | Date | Credential |
-|:-----:|:---------:|:--------:|:----:|:----------:|
+| S.No. | PROJECT NAME | LINK | LANGUAGES ​​AND TOOLS |
+|:-----:|:------------:|:----:|:-------------------:|
 | 1. | web development | Curso em Vídeo | February 2024 | [View](https://lydian-enthusiasm-040.notion.site/Curso-em-V-deo-571e930a044240b1bdc8556408be9671?pvs=4) |
 | 2. | HTML | MIMO | March 2025 | [View](https://github.com/filipecode-03/MIMO) |
 | 3. | Responsive Web Design | freeCodeCamp | March 2025 | [View](https://github.com/filipecode-03/freeCodeCamp) |
 | 4. | HTML, CSS, JS | W3Schools | March 2025 | [View](https://github.com/filipecode-03/W3Schools) |
+
 </div>
 
 
@@ -63,6 +61,7 @@
 📄 Below is a demonstration of my knowledge and skills across a wide range of web technology related content.
 
 <br>
+<div align="center">
 
 | S.No. | Certificate Name | Issuing Authority | Date | Credential |
 |:-----:|:-----------------:|:------------------:|:----:|:----------:|
@@ -70,6 +69,8 @@
 | 2. | HTML | MIMO | March 2025 | [View](https://github.com/filipecode-03/MIMO) |
 | 3. | Responsive Web Design | freeCodeCamp | March 2025 | [View](https://github.com/filipecode-03/freeCodeCamp) |
 | 4. | HTML, CSS, JS | W3Schools | March 2025 | [View](https://github.com/filipecode-03/W3Schools) |
+
+</div>
 <br>
 
 # Tech Stack <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
