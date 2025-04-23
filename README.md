@@ -36,25 +36,20 @@
 
 <br>
 
-# Projects <img src="images/computer-unscreen.gif" width="48">
+<!-- # Projects <img src="images/computer-unscreen.gif" width="48">
 
 <div align="center">
 
   ### FRONT-END</h3>
 
-</div>
-
-<div align="center">
-
 | S.No. | PROJECT NAME | LINK | LANGUAGES ​​AND TOOLS |
 |:-----:|:------------:|:----:|:-------------------:|
-| 1. | web development | Curso em Vídeo | February 2024 | [View](https://lydian-enthusiasm-040.notion.site/Curso-em-V-deo-571e930a044240b1bdc8556408be9671?pvs=4) |
-| 2. | HTML | MIMO | March 2025 | [View](https://github.com/filipecode-03/MIMO) |
-| 3. | Responsive Web Design | freeCodeCamp | March 2025 | [View](https://github.com/filipecode-03/freeCodeCamp) |
-| 4. | HTML, CSS, JS | W3Schools | March 2025 | [View](https://github.com/filipecode-03/W3Schools) |
+| 1. | web development | Curso em Vídeo | ![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm) |
+| 2. | HTML | MIMO | [View](https://github.com/filipecode-03/MIMO) |
+| 3. | Responsive Web Design | freeCodeCamp | [View](https://github.com/filipecode-03/freeCodeCamp) |
+| 4. | HTML, CSS, JS | W3Schools | [View](https://github.com/filipecode-03/W3Schools) |
 
-</div>
-
+</div> -->
 
 # Certifications <img src="images/cup-17086305-unscreen.gif" width="40">
 
