@@ -78,7 +78,7 @@
 <samp>IDE & tools</samp> | ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0077b6?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue&labelColor=0D1117) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) ![GIMP](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white) ![INKSCAPE](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white) ![microsoft-office](https://img.shields.io/badge/-microsoft_office-ff8500?style=for-the-badge&logo=microsoft-office&labelColor=0D1117) ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)|
 <samp>Version Control</samp> | ![Git](https://img.shields.io/badge/-Git-000814?style=for-the-badge&logo=git&labelColor=000814) ![GitHub](https://img.shields.io/badge/-GitHub-7b2cbf?style=for-the-badge&logo=github&labelColor=7b2cbf) |
 <samp>Servers</samp> | ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=0A0209)|
-<samp>Databases</samp> | ![MySQL](https://img.shields.io/badge/MySQL-fdc500?style=for-the-badge&logo=npm&logoColor=0D1117&labelColor=fdc500&textColor=0D1117)|
+<samp>Databases</samp> | ![PostgreSql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br>
 
