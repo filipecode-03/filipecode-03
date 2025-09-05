@@ -36,20 +36,21 @@
 
 <br>
 
-<!-- # Projects <img src="images/computer-unscreen.gif" width="48">
+# Projects <img src="images/computer-unscreen.gif" width="48">
 
 <div align="center">
 
-  ### FRONT-END</h3>
+  ### FRONT-END
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <a href="https://github.com/JoshuaThadi/Data-Science"><img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Data-Science&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" /></a>
+    <a href="https://github.com/JoshuaThadi/Artificial-Intelligence"><img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Artificial-Intelligence&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440"/></a>
+    <a href="https://github.com/JoshuaThadi/Generative-AI"><img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Generative-AI&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440"/></a>
+    <a href="https://github.com/JoshuaThadi/MachineLearning-and-DeepLearning"><img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=MachineLearning-and-DeepLearning&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440"/></a>
+  </div>
+</div>
 
-| S.No. | PROJECT NAME | LINK | LANGUAGES ​​AND TOOLS |
-|:-----:|:------------:|:----:|:-------------------:|
-| 1. | web development | Curso em Vídeo | ![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm) |
-| 2. | HTML | MIMO | [View](https://github.com/filipecode-03/MIMO) |
-| 3. | Responsive Web Design | freeCodeCamp | [View](https://github.com/filipecode-03/freeCodeCamp) |
-| 4. | HTML, CSS, JS | W3Schools | [View](https://github.com/filipecode-03/W3Schools) |
-
-</div> -->
+<br>
+<br>
 
 # Certifications <img src="images/cup-17086305-unscreen.gif" width="40">
 
