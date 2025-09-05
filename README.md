@@ -48,6 +48,7 @@
     <a href="https://github.com/filipecode-03/googleglass"><img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=filipecode-03&repo=googleglass&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440"/></a>
     <a href="https://github.com/filipecode-03/WEB-SITE-ANDROID"><img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=filipecode-03&repo=WEB-SITE-ANDROID&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440"/></a>
     <a href="https://github.com/filipecode-03/sitedogta5"><img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=filipecode-03&repo=sitedogta5&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440"/></a>
+    <a href="https://github.com/filipecode-03/projeto-one-piece"><img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=filipecode-03&repo=projeto-one-piece&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440"/></a>
   </div>
 </div>
 
