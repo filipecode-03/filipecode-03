@@ -42,7 +42,7 @@
 
   ### FRONT-END
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://github.com/JoshuaThadi/Data-Science"><img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Data-Science&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" /></a>
+    <a href="https://github.com/filipecode-03/WEB-SITE-CORDEL"><img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=filipecode-03&repo=WEB-SITE-CORDEL&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" /></a>
     <a href="https://github.com/JoshuaThadi/Artificial-Intelligence"><img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Artificial-Intelligence&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440"/></a>
     <a href="https://github.com/JoshuaThadi/Generative-AI"><img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Generative-AI&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440"/></a>
     <a href="https://github.com/JoshuaThadi/MachineLearning-and-DeepLearning"><img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=MachineLearning-and-DeepLearning&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440"/></a>
