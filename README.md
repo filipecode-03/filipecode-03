@@ -117,11 +117,6 @@
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipecode-03&layout=compact&hide_border=true&title_color=bd93f9&text_color=f8f8f2&bg_color=282a36&langs_count=6&icon_color=ff79c6"/> 
 </div>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=filipecode-03&show_icons=true&&count_private=true&hide_border=true&title_color=fff&icon_color=FFFFAF&text_color=c9d1d9&bg_color=262626" alt="Filipe Magalhães github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipecode-03&layout=compact&hide_border=true&title_color=fff&text_color=c9d1d9&bg_color=262626&langs_count=6"/>
-</div>
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=filipecode-03&bg_color=0D0D0D&color=bd93f9&line=F2F2F2&point=BD41F2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
