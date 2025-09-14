@@ -120,4 +120,4 @@
   <img src="https://github-profile-trophy.vercel.app/?username=filipecode-03&theme=dracula&row=2&no-bg=true&column=4&margin-w=15&margin-h=15" />
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F25781&height=120&section=footer"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF79C6&height=120&section=footer"/> 
