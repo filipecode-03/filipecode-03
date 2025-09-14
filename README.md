@@ -114,10 +114,13 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipecode-03&layout=compact&hide_border=true&title_color=fff&text_color=c9d1d9&bg_color=262626&langs_count=6"/>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=filipecode-03&bg_color=262626&color=c9d1d9&line=c9d1d9&point=fffc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=filipecode-03&bg_color=282a36&color=bd93f9&line=c9d1d9&point=bd93f9&area=true&area_color=6272a4,bd93f9,ff79c6&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=filipecode-03&bg_color=282a36&color=bd93f9&line=ff79c6&point=ffb86c&area=true&area_color=6272a4,bd93f9,ff79c6&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=filipecode-03&theme=dracula&row=2&no-bg=true&column=4&margin-w=15&margin-h=15" />
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6272A4&height=120&section=footer"/> 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF79C6&height=120&section=footer&reversal=true"/>
