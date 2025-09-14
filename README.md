@@ -41,6 +41,11 @@
 <div align="center">
 
   ### FRONT-END
+
+  | Project | Project | Project |
+|---------|---------|---------|
+| [![WEB-SITE-CORDEL](https://github-readme-stats.vercel.app/api/pin/?username=filipecode-03&repo=WEB-SITE-CORDEL&theme=dark)](https://github.com/filipecode-03/WEB-SITE-CORDEL) | [![WEB-SITE-RedesSociais](https://github-readme-stats.vercel.app/api/pin/?username=filipecode-03&repo=WEB-SITE-RedesSociais&theme=dark)](https://github.com/filipecode-03/WEB-SITE-RedesSociais) | [![Mobile First](https://github-readme-stats.vercel.app/api/pin/?username=filipecode-03&repo=WBE-SITE-MobileFirst&theme=dark)](https://github.com/filipecode-03/WBE-SITE-MobileFirst) |
+
   <details>
     <summary>Click to expand</summary>
     <div style="display: flex; justify-content: center; gap: 10px;">
@@ -115,8 +120,4 @@
   <img src="https://github-profile-trophy.vercel.app/?username=filipecode-03&theme=dracula&row=2&no-bg=true&column=4&margin-w=15&margin-h=15" />
 </p>
 
-<!-- animação de onda gray
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DCDCDC&height=120&section=footer"/> 
-
--->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=032CA6,092140,163E73,16B4F2,29CDF2&height=120&section=footer"/> 
