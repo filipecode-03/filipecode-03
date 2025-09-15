@@ -16,7 +16,7 @@
 
 <div align="center">
 
-# <img src="images/fogoAzul.gif" width="60px" /> &nbsp; Welcome to my Readme &nbsp; <img src="images/fogoAzul.gif" width="60px" />
+# <img src="images/firePurple.gif" width="60px" /> &nbsp; Welcome to my Readme &nbsp; <img src="images/firePurple.gif" width="60px" />
 
 </div>
 
@@ -35,7 +35,7 @@
 🤩 I intend to build a career with committed and dedicated people who will help me explore myself and understand my potential. Willing to work as a key player in a challenging and creative environment with all my professional and technical skills.
 
 <br>
-
+<!--
 # Projects <img src="images/computer-unscreen.gif" width="48">
 
 <div align="center">
@@ -76,7 +76,7 @@
 </div>
 
 <br>
-<br>
+<br> -->
 
 # Certifications <img src="images/cup-17086305-unscreen.gif" width="40">
 
