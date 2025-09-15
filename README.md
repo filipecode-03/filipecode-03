@@ -120,7 +120,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=filipecode-03&bg_color=0D0D0D&color=bd93f9&line=F2F2F2&point=BD41F2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=filipecode-03&theme=algolia&row=2&no-bg=true&column=4&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=filipecode-03&theme=dracula&row=2&no-bg=true&column=4&margin-w=15&margin-h=15" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=603473&height=120&section=footer&reversal=true"/>
