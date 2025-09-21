@@ -35,48 +35,19 @@
 🤩 I intend to build a career with committed and dedicated people who will help me explore myself and understand my potential. Willing to work as a key player in a challenging and creative environment with all my professional and technical skills.
 
 <br>
-<!--
+
 # Projects <img src="images/computer-unscreen.gif" width="48">
 
 <div align="center">
 
   ### FRONT-END
+  <a href="https://github.com/filipecode-03/CURSO-EM-VIDEO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=filipecode-03&repo=CURSO-EM-VIDEO&theme=dracula" width="265" ></a>
 
-  | Project | Project | Project |
-|---------|---------|---------|
-| [![WEB-SITE-CORDEL](https://github-readme-stats.vercel.app/api/pin/?username=filipecode-03&repo=WEB-SITE-CORDEL&theme=dark)](https://github.com/filipecode-03/WEB-SITE-CORDEL) | [![WEB-SITE-RedesSociais](https://github-readme-stats.vercel.app/api/pin/?username=filipecode-03&repo=WEB-SITE-RedesSociais&theme=dark)](https://github.com/filipecode-03/WEB-SITE-RedesSociais) | [![Mobile First](https://github-readme-stats.vercel.app/api/pin/?username=filipecode-03&repo=WBE-SITE-MobileFirst&theme=dark)](https://github.com/filipecode-03/WBE-SITE-MobileFirst) |
+[![Curso-em-vídeo-Projects](https://github-readme-stats.vercel.app/api/pin/?username=filipecode-03&repo=WEB-SITE-CORDEL&theme=dracula)](https://github.com/filipecode-03/WEB-SITE-CORDEL) [![WEB-SITE-RedesSociais](https://github-readme-stats.vercel.app/api/pin/?username=filipecode-03&repo=WEB-SITE-RedesSociais&theme=dark)](https://github.com/filipecode-03/WEB-SITE-RedesSociais)[![Mobile First](https://github-readme-stats.vercel.app/api/pin/?username=filipecode-03&repo=WBE-SITE-MobileFirst&theme=dark)](https://github.com/filipecode-03/WBE-SITE-MobileFirst)
 
-  <details>
-    <summary>Click to expand</summary>
-    <div style="display: flex; justify-content: center; gap: 10px;">
-      <a href="https://github.com/filipecode-03/WEB-SITE-CORDEL"><img width=375 src="https://github-readme-stats.vercel.app/api/pin/?username=filipecode-03&repo=WEB-SITE-CORDEL&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" /></a>
-      <a href="https://github.com/filipecode-03/WEB-SITE-RedesSociais"><img width=375 src="https://github-readme-stats.vercel.app/api/pin/?username=filipecode-03&repo=WEB-SITE-RedesSociais&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440"/></a>
-      <a href="https://github.com/filipecode-03/WBE-SITE-MobileFirst"><img width=375 src="https://github-readme-stats.vercel.app/api/pin/?username=filipecode-03&repo=WBE-SITE-MobileFirst&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440"/></a>
-      <a href="https://github.com/filipecode-03/googleglass"><img width=375 src="https://github-readme-stats.vercel.app/api/pin/?username=filipecode-03&repo=googleglass&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440"/></a>
-      <a href="https://github.com/filipecode-03/WEB-SITE-ANDROID"><img width=375 src="https://github-readme-stats.vercel.app/api/pin/?username=filipecode-03&repo=WEB-SITE-ANDROID&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440"/></a>
-      <a href="https://github.com/filipecode-03/sitedogta5"><img width=375 src="https://github-readme-stats.vercel.app/api/pin/?username=filipecode-03&repo=sitedogta5&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440"/></a>
-      <a href="https://github.com/filipecode-03/projeto-one-piece"><img width=375 src="https://github-readme-stats.vercel.app/api/pin/?username=filipecode-03&repo=projeto-one-piece&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440"/></a>
-      <a href="https://github.com/filipecode-03/projeto-quiz"><img width=375 src="https://github-readme-stats.vercel.app/api/pin/?username=filipecode-03&repo=projeto-quiz&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440"/></a>
-      <a href="https://github.com/filipecode-03/WEB-SITE-FlexBox"><img width=375 src="https://github-readme-stats.vercel.app/api/pin/?username=filipecode-03&repo=WEB-SITE-FlexBox&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440"/></a>
-      <a href="https://github.com/filipecode-03/html-pagina-simples"><img width=375 src="https://github-readme-stats.vercel.app/api/pin/?username=filipecode-03&repo=html-pagina-simples&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440"/></a>
-      <a href="https://github.com/filipecode-03/WEB-SITE-Login"><img width=375 src="https://github-readme-stats.vercel.app/api/pin/?username=filipecode-03&repo=html-pagina-simples&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440"/></a>
-      <a href="https://github.com/filipecode-03/WEB-SITE-MenuResponsive"><img width=375 src="https://github-readme-stats.vercel.app/api/pin/?username=filipecode-03&repo=WEB-SITE-MenuResponsive&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440"/></a>
-      <a href="https://github.com/filipecode-03/cafemenu"><img width=375 src="https://github-readme-stats.vercel.app/api/pin/?username=filipecode-03&repo=cafemenu&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440"/></a>
-      <a href="https://github.com/filipecode-03/form"><img width=375 src="https://github-readme-stats.vercel.app/api/pin/?username=filipecode-03&repo=form&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440"/></a>
-      <a href="https://github.com/filipecode-03/surveyForm"><img width=375 src="https://github-readme-stats.vercel.app/api/pin/?username=filipecode-03&repo=surveyForm&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440"/></a>
-      <a href="https://github.com/filipecode-03/flexboxphotogallery"><img width=375 src="https://github-readme-stats.vercel.app/api/pin/?username=filipecode-03&repo=flexboxphotogallery&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440"/></a>
-      <a href="https://github.com/filipecode-03/questionnaire"><img width=375 src="https://github-readme-stats.vercel.app/api/pin/?username=filipecode-03&repo=questionnaire&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440"/></a>
-      <a href="https://github.com/filipecode-03/tributePage"><img width=375 src="https://github-readme-stats.vercel.app/api/pin/?username=filipecode-03&repo=tributePage&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440"/></a>
-      <a href="https://github.com/filipecode-03/documentation"><img width=375 src="https://github-readme-stats.vercel.app/api/pin/?username=filipecode-03&repo=documentation&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440"/></a>
-      <a href="https://github.com/filipecode-03/Magazine"><img width=375 src="https://github-readme-stats.vercel.app/api/pin/?username=filipecode-03&repo=Magazine&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440"/></a>
-      <a href="https://github.com/filipecode-03/productLandingPage"><img width=375 src="https://github-readme-stats.vercel.app/api/pin/?username=filipecode-03&repo=productLandingPage&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440"/></a>
-      <a href="https://github.com/filipecode-03/landingPage"><img width=375 src="https://github-readme-stats.vercel.app/api/pin/?username=filipecode-03&repo=landingPage&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440"/></a>
-    </div>
-  </details>
 </div>
 
 <br>
-<br> -->
 
 # Certifications <img src="images/cup-17086305-unscreen.gif" width="40">
 
