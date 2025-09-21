@@ -41,7 +41,7 @@
 <div align="center">
 
   ### FRONT-END
-  <a href="https://github.com/filipecode-03/CURSO-EM-VIDEO/blob/main/projetos.md"><img src="https://github-readme-stats.vercel.app/api/pin/?username=filipecode-03&repo=CURSO-EM-VIDEO&theme=dracula" width="200" height="400" ></a>
+  <a href="https://github.com/filipecode-03/CURSO-EM-VIDEO/blob/main/projetos.md"><img src="https://github-readme-stats.vercel.app/api/pin/?username=filipecode-03&repo=CURSO-EM-VIDEO&theme=dracula" width="325"></a>
   <a href=""><img src=""></a>
 
 </div>
