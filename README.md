@@ -41,9 +41,8 @@
 <div align="center">
 
   ### FRONT-END
-  <a href="https://github.com/filipecode-03/CURSO-EM-VIDEO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=filipecode-03&repo=CURSO-EM-VIDEO&theme=dracula" width="265" ></a>
-
-[![Curso-em-vídeo-Projects](https://github-readme-stats.vercel.app/api/pin/?username=filipecode-03&repo=WEB-SITE-CORDEL&theme=dracula)](https://github.com/filipecode-03/WEB-SITE-CORDEL) [![WEB-SITE-RedesSociais](https://github-readme-stats.vercel.app/api/pin/?username=filipecode-03&repo=WEB-SITE-RedesSociais&theme=dark)](https://github.com/filipecode-03/WEB-SITE-RedesSociais)[![Mobile First](https://github-readme-stats.vercel.app/api/pin/?username=filipecode-03&repo=WBE-SITE-MobileFirst&theme=dark)](https://github.com/filipecode-03/WBE-SITE-MobileFirst)
+  <a href="https://github.com/filipecode-03/CURSO-EM-VIDEO/blob/main/projetos.md"><img src="https://github-readme-stats.vercel.app/api/pin/?username=filipecode-03&repo=CURSO-EM-VIDEO&theme=dracula" width="250" ></a>
+  <a href=""><img src=""></a>
 
 </div>
 
