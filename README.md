@@ -67,6 +67,15 @@
 
 <samp>Tools & Technologies</samp> | <samp>Badge</samp> |
 --- | --- |
+<samp>Web development</samp> | [![My Skills](https://skillicons.dev/icons?i=vite,figma,nodejs,html,css,js,react,tailwind,npm,ts)](https://skillicons.dev)|
+<samp>Operating System</samp> | [![My Skills](https://skillicons.dev/icons?i=windows,linux,kali,ubuntu)](https://skillicons.dev)|
+<samp>Programming Languages</samp> | [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)|
+<samp>IDE & tools</samp> | [![My Skills](https://skillicons.dev/icons?i=vscode,notion,figma)](https://skillicons.dev)|
+<samp>Version Control</samp> | [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)|
+<samp>Databases</samp> | [![My Skills](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
+
+<samp>Tools & Technologies</samp> | <samp>Badge</samp> |
+--- | --- |
 <samp>Web development</samp> | ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![FRAMER](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)|
 <samp>Operating System</samp> | ![Windows](https://img.shields.io/badge/-Windows-0077b6?style=for-the-badge&logo=windows&labelColor=0D1117) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=d5d5d5) ![KALI](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)|
 <samp>Programming Languages</samp> | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)|
