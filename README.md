@@ -67,9 +67,9 @@
 
 <samp>Tools & Technologies</samp> | <samp>Badge</samp> |
 --- | --- |
-<samp>Web development</samp> | [![My Skills](https://skillicons.dev/icons?i=vite,figma,nodejs,html,css,js,react,next,tailwind,npm,ts,docker,express)](https://skillicons.dev)|
+<samp>Web development</samp> | [![My Skills](https://skillicons.dev/icons?i=vite,figma,nodejs,html,css,js,react,next,tailwind,npm,ts,docker,express,php)](https://skillicons.dev)|
 <samp>Operating System</samp> | [![My Skills](https://skillicons.dev/icons?i=windows,linux,kali,ubuntu)](https://skillicons.dev)|
-<samp>Programming Languages</samp> | [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)|
+<samp>Programming Languages</samp> | [![My Skills](https://skillicons.dev/icons?i=js,ts,php)](https://skillicons.dev)|
 <samp>IDE & tools</samp> | [![My Skills](https://skillicons.dev/icons?i=vscode,notion,figma)](https://skillicons.dev)|
 <samp>Version Control</samp> | [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)|
 <samp>Databases</samp> | [![My Skills](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
