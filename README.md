@@ -72,7 +72,7 @@
 <samp>Programming Languages</samp> | [![My Skills](https://skillicons.dev/icons?i=js,ts,php)](https://skillicons.dev)|
 <samp>IDE & tools</samp> | [![My Skills](https://skillicons.dev/icons?i=vscode,notion,figma)](https://skillicons.dev)|
 <samp>Version Control</samp> | [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)|
-<samp>Databases</samp> | [![My Skills](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
+<samp>Databases</samp> | [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,prisma)](https://skillicons.dev)
 
 <!--
 
