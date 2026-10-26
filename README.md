@@ -28,10 +28,6 @@ Utilizo inteligência artificial como ferramenta de apoio ao planejamento, desen
 
 Atualmente, busco uma oportunidade como **Desenvolvedor Front-end Júnior**, na qual eu possa contribuir com produtos reais, evoluir tecnicamente e trabalhar em equipe.
 
-# Projetos
-
-
-
 # Tech Stack
 
 <samp>Tools & Technologies</samp> | <samp>Badge</samp> |
