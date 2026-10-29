@@ -4,7 +4,7 @@
 
   ### Desenvolvedor Full Stack
 
-  React · Next.js · TypeScript · Tailwind CSS · UX/UI · Interfaces responsivas
+  React · Next.js · TypeScript · Tailwind CSS · Node.js
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipemagalh%C3%A3es03)
   [![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatofilipecode@gmail.com)
