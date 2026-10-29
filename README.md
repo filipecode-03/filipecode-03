@@ -2,7 +2,7 @@
 
   # Bem-vindo ao meu README.md
 
-  ### Desenvolvedor Front-end Júnior
+  ### Desenvolvedor Full Stack
 
   React · Next.js · TypeScript · Tailwind CSS · UX/UI · Interfaces responsivas
 
@@ -18,7 +18,7 @@
 
 ## Sobre mim
 
-Sou graduando em **Engenharia de Software** e desenvolvedor Front-end com foco na criação de interfaces responsivas, funcionais e visualmente bem estruturadas.
+Sou graduando em **Engenharia de Software** e desenvolvedor Full Stack & Especialista em Front end.
 
 Tenho experiência prática com **React, Next.js, TypeScript e Tailwind CSS**, além de conhecimentos em integração com APIs, autenticação, banco de dados e desenvolvimento Full Stack. Ao longo da minha formação, construí projetos próprios, aplicações de cursos e desafios de diferentes níveis de complexidade.
 
