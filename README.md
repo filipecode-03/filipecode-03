@@ -26,7 +26,7 @@ Meu principal projeto é o **Roraima Mangás**, um e-commerce Full Stack para co
 
 Utilizo inteligência artificial como ferramenta de apoio ao planejamento, desenvolvimento, revisão e documentação, buscando compreender a arquitetura e as decisões presentes em cada solução.
 
-Atualmente, busco uma oportunidade como **Desenvolvedor Front-end Júnior**, na qual eu possa contribuir com produtos reais, evoluir tecnicamente e trabalhar em equipe.
+Atualmente, busco uma oportunidade como **Desenvolvedor Full Stack**, na qual eu possa contribuir com produtos reais, evoluir tecnicamente e trabalhar em equipe.
 
 # Tech Stack
 
